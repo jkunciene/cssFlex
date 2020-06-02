@@ -1,0 +1,33 @@
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+
+}
+header{
+    background-color: coral;
+    height: 20%;
+}
+.stulpeliams1{
+    flex-direction:column;
+}
+.stulpeliams2{
+    flex-direction: column;
+    flex-grow: 3;
+}
+.navbar{
+    background-color: aliceblue;
+    height: 200px;
+}
+.ads{
+    background-color: palevioletred;
+    height: 200px;
+}
+.article{
+    background-color: darkslategrey;
+    height: 350px;
+
+}
+.footer{
+    background-color: bisque;
+    height: 50px;
+}
